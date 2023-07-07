@@ -9,6 +9,7 @@ console("home");
 function home_result(){
     return '
 
+    /*
     .elementor-location-header{
         background-color: var(--e-global-color-3d7bfa8) !important;
         margin-bottom: -104px;
@@ -16,6 +17,10 @@ function home_result(){
     .moein_menusec{
         background-color: var(--e-global-color-3d7bfa8) !important;
     }
+    .bdt-navbar-nav a{
+        color: white;
+    }*/
+
 
     .eight_btn{
         /*transform: skewx(-15deg);*/
@@ -23,8 +28,13 @@ function home_result(){
 
     /* menu */
     .moein_menusec{
-        /*display:none;*/
+        display:none;
     }
+
+    .moein_menuthr{
+        display: block !important;
+    }
+
     .moein-menu{
         z-index: 2;
         box-shadow: unset !important;
