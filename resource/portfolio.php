@@ -79,7 +79,7 @@ function portfolio_script_result()
         const tab3  = tab2 + space; // 2300
         const tab4  = tab3 + space; // 2500
 
-        document.querySelectorAll(".elementor-widget-wrap .elementor-element-populated")[0].style="padding: 0px 0px " + (space * 2) + "px 0px !important;";
+        // document.querySelectorAll(".elementor-widget-wrap .elementor-element-populated")[0].style="padding: 0px 0px " + (space * 2) + "px 0px !important;";
         var w_tabs = "";
         if(document.documentElement.scrollTop >= tab1 && document.documentElement.scrollTop <= tab2){
             console.log("tab1");

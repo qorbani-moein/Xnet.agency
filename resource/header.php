@@ -12,7 +12,7 @@ function header_result(){
             padding-top: 34px !important
         }
     }
-    ';د
+    ';
 }
 
 ?>
