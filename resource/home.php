@@ -10,11 +10,11 @@ function home_result(){
     return '
 
     .elementor-location-header{
-        background-color: var( --e-global-color-3d7bfa8 );
+        background-color: var(--e-global-color-3d7bfa8) !important;
         margin-bottom: -104px;
     }
     .moein_menusec{
-        background-color: var( --e-global-color-3d7bfa8 );
+        background-color: var(--e-global-color-3d7bfa8) !important;
     }
 
     .eight_btn{
