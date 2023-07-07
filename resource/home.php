@@ -9,6 +9,14 @@ console("home");
 function home_result(){
     return '
 
+    .elementor-location-header{
+        background-color: var( --e-global-color-3d7bfa8 );
+        margin-bottom: -104px;
+    }
+    .moein_menusec{
+        background-color: var( --e-global-color-3d7bfa8 );
+    }
+
     .eight_btn{
         /*transform: skewx(-15deg);*/
     }
