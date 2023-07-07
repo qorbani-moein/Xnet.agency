@@ -15,7 +15,7 @@ function home_result(){
 
     /* menu */
     .moein_menusec{
-        display:none;
+        /*display:none;*/
     }
     .moein-menu{
         z-index: 2;
