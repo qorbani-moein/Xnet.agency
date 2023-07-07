@@ -104,6 +104,7 @@ function portfolio_script_result()
 
     });
     
+    /*
     var elem_lightbox = document.getElementById("moein_zooming");
 
     if(elem_lightbox != undefined){
@@ -121,6 +122,8 @@ function portfolio_script_result()
             }catch(e){console.log(e)}
         }
     }
+    */
+
     ';
 }
 
