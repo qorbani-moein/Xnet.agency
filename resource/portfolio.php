@@ -118,7 +118,7 @@ function portfolio_script_result()
                     document.getElementById("moein_zooming") = elem_lightbox;
                 }
                 */
-                
+                /*
             }catch(e){console.log(e)}
         }
     }

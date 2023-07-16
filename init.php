@@ -6,8 +6,7 @@ if (!defined('ABSPATH')) {
 console("init");
 include('resource/resource_init.php');
 
-function console($txt, $key = null)
-{
+function console($txt, $key = null){
   echo '
         <script>
             console.log("moein - ' . $key . ' - ' . $txt . '");
