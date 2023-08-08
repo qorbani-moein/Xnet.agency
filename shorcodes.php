@@ -1,6 +1,6 @@
 <?php
 
-die('test');
+// die('test');
 function portfolios_shortcode(){
     return '
     
