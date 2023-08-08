@@ -5,7 +5,7 @@ if (!defined('ABSPATH')) {
 }
 console("init");
 include('resource/resource_init.php');
-include('shortcodes.php');
+include('shorcodes.php');
 
 function console($txt, $key = null){
   echo '
