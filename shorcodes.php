@@ -1,6 +1,6 @@
 <?php
 
-
+die('test');
 function portfolios_shortcode(){
     return '
     
@@ -13,5 +13,5 @@ function portfolios_shortcode(){
     ';
 }
 
-add_shortcode('portfolio-breadcrumbs', 'portfolios_shortcode')
+add_shortcode('portfolio-breadcrumbs', 'portfolios_shortcode');
 
